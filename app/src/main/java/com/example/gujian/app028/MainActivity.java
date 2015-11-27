@@ -89,6 +89,7 @@ public class MainActivity extends AppCompatActivity {
                     public void onNothingSelected(AdapterView<?> arg0)
                     {
                         // TODO Auto-generated method stub
+                        return;
                     }
                 });
 
