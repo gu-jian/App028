@@ -117,6 +117,8 @@ public class MainActivity extends AppCompatActivity {
             public void onFocusChange(View v, boolean hasFocus)
             {
                 // TODO Auto-generated method stub
+
+                //ddddddcccc
             }
         });
 
