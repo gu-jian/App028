@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        /* 以findViewById()取得对象 */
+        /* 以findViewById()取得对象 ffffffff*/
         myTextView = (TextView) findViewById(R.id.myTextView);
         mySpinner = (Spinner) findViewById(R.id.mySpinner);
 
